@@ -16,7 +16,7 @@ which are highly specialized in an area of knowledge.
 ### Federated Knowledge Repository
 
 To that goal, we are in the early stages of designing and doing PoCs for the
-Document Repo [https://github.com/BreadcrumbAI/DocRepo], where we will hold
+[Document Repo](https://github.com/BreadcrumbAI/DocRepo), where we will hold
 the initial corpus of data to consume.
 
 What we are looking to build is a fully versioned, fully transparent knowledge
@@ -38,7 +38,7 @@ This is depicted here:
 
 ![Federate AI](Images/Architecture/FederatedAI.drawio.png).
 
-We will also be building a Workflow Server [https://github.com/BreadcrumbAI/Workflow]
+We will also be building a [Workflow Server](https://github.com/BreadcrumbAI/Workflow)
 which is used to periodically instrument, observe and predict/estimate when
 a full Knowledge Graph can be reasonably trained by the network into a model.
 
