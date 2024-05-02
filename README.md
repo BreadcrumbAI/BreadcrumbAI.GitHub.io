@@ -45,3 +45,5 @@ a full Knowledge Graph can be reasonably trained by the network into a model.
 ## Feedback
 
 Comments are welcome. Suggestions, Resources, Code, PRs welcome.
+
+Visit our [GitHub Page](https://github.com/BreadcrumbAI) on how to contact us.
